@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TwoFieldsOutput</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d316fcc-85de-436f-8819-9eafe7942586</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf8cf3b0-e889-4ecb-b47d-e74138b5b4dc</id>
+      <masked>false</masked>
+      <name>First</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f09f9022-c3ae-449f-aa35-508ba765655d</id>
+      <masked>false</masked>
+      <name>Second</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0a80f4e-5b02-4c09-9274-29bd80671eca</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+</TestCaseEntity>

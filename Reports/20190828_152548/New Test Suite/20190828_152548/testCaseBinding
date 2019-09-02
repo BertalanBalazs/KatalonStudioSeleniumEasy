@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/SeleniumEasy/TwoFieldsOutput - Iteration 1","testCaseId":"Test Cases/SeleniumEasy/TwoFieldsOutput","bindedValues":{"Second":"\u002721\u0027","First":"\u0027012\u0027","Result":"\u002732\u0027"}}
+{"testCaseName":"Test Cases/SeleniumEasy/TwoFieldsOutput - Iteration 2","testCaseId":"Test Cases/SeleniumEasy/TwoFieldsOutput","bindedValues":{"Second":"\u0027222222222222\u0027","First":"\u0027888888888888\u0027","Result":"\u002710000000000000\u0027"}}
+{"testCaseName":"Test Cases/SeleniumEasy/TwoFieldsOutput - Iteration 3","testCaseId":"Test Cases/SeleniumEasy/TwoFieldsOutput","bindedValues":{"Second":"\u0027-21\u0027","First":"\u00270.5\u0027","Result":"\u0027N/a\u0027"}}
